@@ -1,6 +1,6 @@
 # GateOpeningUnit
 
-Scopul robotului e de a automatiza o poarta culisanta.
+##Scopul robotului e de a automatiza o poarta culisanta.
 
 Foloseste un  motor de stergator de masina cu reductor, si e capabila sa deschida o poarta de pana la 250 kg.
 
@@ -11,14 +11,14 @@ citind culoarea afisata de aplicatie in interiorul robotului, pentru a face dive
 Acest mod de deschidere a portii de la mare distanta, se  poate, si va fi reimplementat folosind un shield gsm pentru a simplifica logica robotului.  
 
 In rest, robotul foloseste:
-	- O sursa de 12v 260w care  alimenteaza motorul principal 
-	- O sursa mai mica de 5v ce alimenteaza relee.
-	- 4 relee 
-	- Un senzor infrarosu pentru control prin telecomanda
-	- Un senzor de culoare pentru a interpreta semnalele primite pe telefon 
+	* O sursa de 12v 260w care  alimenteaza motorul principal 
+	* O sursa mai mica de 5v ce alimenteaza relee.
+	* 4 relee 
+	* Un senzor infrarosu pentru control prin telecomanda
+	* Un senzor de culoare pentru a interpreta semnalele primite pe telefon 
 
 Demo video : 
 https://www.youtube.com/watch?v=dDStKAqoDck
-[!alt text ] (./PozaProiect1.jpg)
+![alt text ] (./PozaProiect1.jpg)
 	
  
