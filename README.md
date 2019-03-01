@@ -2,7 +2,7 @@
 
 ## Scopul robotului e de a automatiza o poarta culisanta.
 
-Foloseste un  motor de stergator de masina cu reductor, si e capabila sa deschida o poarta de pana la 250 kg.
+Foloseste un  motor de stergator de masina cu reductor, si e capabil sa deschida o poarta de pana la 250 kg.
 
 Modalitatea de deschidere este fie prin telecomanda, fie prin semnale de pe laptop catre o aplicatie mobila, aflata pe un telefon in interiorul robotului.
 
