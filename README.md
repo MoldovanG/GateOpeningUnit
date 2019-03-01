@@ -16,5 +16,8 @@ In rest, robotul foloseste:
 	- 4 relee 
 	- Un senzor infrarosu pentru control prin telecomanda
 	- Un senzor de culoare pentru a interpreta semnalele primite pe telefon 
+
+Demo video : 
+https://www.youtube.com/watch?v=dDStKAqoDck
 	
  
