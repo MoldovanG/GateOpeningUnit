@@ -19,5 +19,6 @@ In rest, robotul foloseste:
 
 Demo video : 
 https://www.youtube.com/watch?v=dDStKAqoDck
+[!alt text ] (./PozaProiect1.jpg)
 	
  
