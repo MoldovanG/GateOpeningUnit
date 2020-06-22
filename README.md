@@ -1,29 +1,24 @@
 # GateOpeningUnit
+Ad-hoc project with the scope of learning the basisc of robotics while doing something practical.
 
-## Scopul robotului e de a automatiza o poarta culisanta.
+It uses a windshield-wiper motor from a car, and is capable of opening a gate that weighs up to 300kg.
 
-Foloseste un  motor de stergator de masina cu reductor, si e capabil sa deschida o poarta de pana la 250 kg.
+The opening can be controled with a remote control or via mobile phone, by calling the number asigned to the gsm module.
 
-Modalitatea de deschidere este fie prin telecomanda, fie prin semnale de pe laptop catre o aplicatie mobila, aflata pe un telefon in interiorul robotului.
+By using a gsm module for controlling the gate, we can basycally control the unit from anywhere in the world.
 
-Cea din urma modalitate de deschidere a fost implementata mai mult in scop didactic, pentru a imbina cunostintele de android cu cele de robotica, 
-citind culoarea afisata de aplicatie in interiorul robotului, pentru a face diverse actiuni asupra portii. 
-Acest mod de deschidere a portii de la mare distanta, se  poate, si va fi reimplementat folosind un shield gsm pentru a simplifica logica robotului.  
+Used components:
+* 12v 260w power source for the motor and arduino board.
+* 5v power source for the relays.
+* 4 channel 5v relay
+* 1 infrared sensor
+* 1 SIM800L gsm module  
 
-In rest, robotul foloseste:
-* O sursa de 12v 260w care  alimenteaza motorul principal 
-* O sursa mai mica de 5v ce alimenteaza relee.
-* 4 relee 
-* Un senzor infrarosu pentru control prin telecomanda
-* Un senzor de culoare pentru a interpreta semnalele primite pe telefon 
 
-Demo video : 
-https://www.youtube.com/watch?v=dDStKAqoDck
-
-### Robotul in carcasa :
+### Unit with case on :
 ![Image of Yaktocat](./PozaProiect1.jpg)
 
-### Interiorul robotului :
+### Unit with case off :
 ![Image of Yaktocat](./PozaProiect2.jpg)
 	
  
